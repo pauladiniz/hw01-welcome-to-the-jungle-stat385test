@@ -66,6 +66,7 @@ the _lower-right_ corner of _RStudio_. For more examples, please see
 
 Place a link to your `hw01` GitHub repository here.
 
+<https://github.com/stat385-sp2018/hw01-welcome-to-the-jungle-stat385test.git>
 
 ## (2 points) Exercise 1: Homework Policy
 
